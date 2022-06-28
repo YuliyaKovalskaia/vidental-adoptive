@@ -418,7 +418,7 @@ text-align: center;
 .phone-down{
     padding-top: 20px;
     font-size: larger;
-    padding-left: 30%;
+    padding-left: 10%;
 }
 .to-call{
     color: var(--light-letter);

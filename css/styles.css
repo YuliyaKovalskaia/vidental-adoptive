@@ -2075,12 +2075,12 @@ margin-right: 10px;
 /* min 320px */
 @media screen and (max-width:320px) {
     .page {
-        max-width: 320px;
+        max-width: 360px;
     }
 
     .nav-row {
         display: list-item;
-        padding: 20px 10px;
+        padding: 20px 30px;
     }
 
     .logo-text {
@@ -2095,18 +2095,16 @@ margin-right: 10px;
         width: 120px;
     }
 
-    .navigation-box {
-        justify-content: center;
-    }
 
     .nav-list {
-        display: contents;
+        display:list-item;
         text-align: center;
     }
 
     .nav-item {
-        font-size: 18px;
-        margin: 10% 0%;
+        font-size: 20px;
+        margin: 0px auto;
+        padding:0px;
 
     }
 
